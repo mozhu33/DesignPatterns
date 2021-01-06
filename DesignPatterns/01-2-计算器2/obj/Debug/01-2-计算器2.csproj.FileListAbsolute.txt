@@ -1,0 +1,6 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\01-2-计算器2\bin\Debug\01-2-计算器2.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\01-2-计算器2\bin\Debug\01-2-计算器2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\01-2-计算器2\bin\Debug\01-2-计算器2.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\01-2-计算器2\obj\Debug\01-2-计算器2.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\01-2-计算器2\obj\Debug\01-2-计算器2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\01-2-计算器2\obj\Debug\01-2-计算器2.pdb
