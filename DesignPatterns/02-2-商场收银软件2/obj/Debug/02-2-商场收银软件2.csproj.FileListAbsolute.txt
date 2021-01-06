@@ -1,0 +1,9 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\obj\Debug\_02_2_商场收银软件2.Form1.resources
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\obj\Debug\_02_2_商场收银软件2.Properties.Resources.resources
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\obj\Debug\02-2-商场收银软件2.csproj.GenerateResource.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\obj\Debug\02-2-商场收银软件2.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\bin\Debug\02-2-商场收银软件2.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\bin\Debug\02-2-商场收银软件2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\bin\Debug\02-2-商场收银软件2.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\obj\Debug\02-2-商场收银软件2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-2-商场收银软件2\obj\Debug\02-2-商场收银软件2.pdb

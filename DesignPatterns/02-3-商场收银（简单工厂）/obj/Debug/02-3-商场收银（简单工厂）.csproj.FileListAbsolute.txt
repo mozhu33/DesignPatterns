@@ -1,0 +1,10 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\bin\Debug\02-3-商场收银（简单工厂）.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\bin\Debug\02-3-商场收银（简单工厂）.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\bin\Debug\02-3-商场收银（简单工厂）.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\obj\Debug\02-3-商场收银（简单工厂）.csprojAssemblyReference.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\obj\Debug\_02_3_商场收银_简单工厂_.Form1.resources
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\obj\Debug\_02_3_商场收银_简单工厂_.Properties.Resources.resources
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\obj\Debug\02-3-商场收银（简单工厂）.csproj.GenerateResource.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\obj\Debug\02-3-商场收银（简单工厂）.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\obj\Debug\02-3-商场收银（简单工厂）.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\02-3-商场收银（简单工厂）\obj\Debug\02-3-商场收银（简单工厂）.pdb
