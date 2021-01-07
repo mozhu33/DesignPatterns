@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-3-商场收银（简单�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-4-商场收银（策略模式）", "02-4-商场收银（策略模式）\02-4-商场收银（策略模式）.csproj", "{78468754-70B6-4286-9201-72F1BF1A26E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-5-商场收银（策略+工厂）", "02-5-商场收银（策略+工厂）\02-5-商场收银（策略+工厂）.csproj", "{079FA127-87EA-4EEC-81CD-73A9C8B111C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{78468754-70B6-4286-9201-72F1BF1A26E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78468754-70B6-4286-9201-72F1BF1A26E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78468754-70B6-4286-9201-72F1BF1A26E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{079FA127-87EA-4EEC-81CD-73A9C8B111C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079FA127-87EA-4EEC-81CD-73A9C8B111C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079FA127-87EA-4EEC-81CD-73A9C8B111C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079FA127-87EA-4EEC-81CD-73A9C8B111C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
