@@ -1,0 +1,6 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\03-2-小菜扮靓2\bin\Debug\03-2-小菜扮靓2.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\03-2-小菜扮靓2\bin\Debug\03-2-小菜扮靓2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\03-2-小菜扮靓2\bin\Debug\03-2-小菜扮靓2.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\03-2-小菜扮靓2\obj\Debug\03-2-小菜扮靓2.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\03-2-小菜扮靓2\obj\Debug\03-2-小菜扮靓2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\03-2-小菜扮靓2\obj\Debug\03-2-小菜扮靓2.pdb
