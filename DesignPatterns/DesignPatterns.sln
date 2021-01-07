@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-1-小菜扮靓1", "03-1-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-2-小菜扮靓2", "03-2-小菜扮靓2\03-2-小菜扮靓2.csproj", "{F361DFD2-4316-40AF-B85A-C5641D8753E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-3-装饰模式", "03-3-装饰模式\03-3-装饰模式.csproj", "{3687F580-DF40-4E50-9200-9ED172FF348A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-4-小菜扮靓（装饰模式）", "03-4-小菜扮靓（装饰模式）\03-4-小菜扮靓（装饰模式）.csproj", "{546769B7-E295-4B65-966A-F8CCD9C5E6F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{F361DFD2-4316-40AF-B85A-C5641D8753E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F361DFD2-4316-40AF-B85A-C5641D8753E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F361DFD2-4316-40AF-B85A-C5641D8753E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3687F580-DF40-4E50-9200-9ED172FF348A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3687F580-DF40-4E50-9200-9ED172FF348A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3687F580-DF40-4E50-9200-9ED172FF348A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3687F580-DF40-4E50-9200-9ED172FF348A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546769B7-E295-4B65-966A-F8CCD9C5E6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546769B7-E295-4B65-966A-F8CCD9C5E6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546769B7-E295-4B65-966A-F8CCD9C5E6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546769B7-E295-4B65-966A-F8CCD9C5E6F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
