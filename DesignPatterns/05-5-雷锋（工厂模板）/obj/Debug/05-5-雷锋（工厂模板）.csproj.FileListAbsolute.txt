@@ -1,0 +1,6 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\05-5-雷锋（工厂模板）\bin\Debug\05-5-雷锋（工厂模板）.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\05-5-雷锋（工厂模板）\bin\Debug\05-5-雷锋（工厂模板）.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\05-5-雷锋（工厂模板）\bin\Debug\05-5-雷锋（工厂模板）.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\05-5-雷锋（工厂模板）\obj\Debug\05-5-雷锋（工厂模板）.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\05-5-雷锋（工厂模板）\obj\Debug\05-5-雷锋（工厂模板）.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\05-5-雷锋（工厂模板）\obj\Debug\05-5-雷锋（工厂模板）.pdb

@@ -1,0 +1,6 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-4-代理模式\bin\Debug\04-4-代理模式.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-4-代理模式\bin\Debug\04-4-代理模式.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-4-代理模式\bin\Debug\04-4-代理模式.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-4-代理模式\obj\Debug\04-4-代理模式.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-4-代理模式\obj\Debug\04-4-代理模式.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-4-代理模式\obj\Debug\04-4-代理模式.pdb

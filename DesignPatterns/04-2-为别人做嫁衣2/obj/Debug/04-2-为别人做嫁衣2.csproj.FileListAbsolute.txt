@@ -1,0 +1,6 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-2-为别人做嫁衣2\bin\Debug\04-2-为别人做嫁衣2.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-2-为别人做嫁衣2\bin\Debug\04-2-为别人做嫁衣2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-2-为别人做嫁衣2\bin\Debug\04-2-为别人做嫁衣2.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-2-为别人做嫁衣2\obj\Debug\04-2-为别人做嫁衣2.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-2-为别人做嫁衣2\obj\Debug\04-2-为别人做嫁衣2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\04-2-为别人做嫁衣2\obj\Debug\04-2-为别人做嫁衣2.pdb
