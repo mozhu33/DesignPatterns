@@ -1,0 +1,6 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\06-5-简历复印（深复制）\bin\Debug\06-5-简历复印（深复制）.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\06-5-简历复印（深复制）\bin\Debug\06-5-简历复印（深复制）.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\06-5-简历复印（深复制）\bin\Debug\06-5-简历复印（深复制）.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\06-5-简历复印（深复制）\obj\Debug\06-5-简历复印（深复制）.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\06-5-简历复印（深复制）\obj\Debug\06-5-简历复印（深复制）.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\06-5-简历复印（深复制）\obj\Debug\06-5-简历复印（深复制）.pdb

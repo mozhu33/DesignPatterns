@@ -1,0 +1,6 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\07-1-抄试卷1\bin\Debug\07-1-抄试卷1.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\07-1-抄试卷1\bin\Debug\07-1-抄试卷1.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\07-1-抄试卷1\bin\Debug\07-1-抄试卷1.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\07-1-抄试卷1\obj\Debug\07-1-抄试卷1.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\07-1-抄试卷1\obj\Debug\07-1-抄试卷1.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\07-1-抄试卷1\obj\Debug\07-1-抄试卷1.pdb
