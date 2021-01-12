@@ -1,0 +1,10 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\bin\Debug\09-1-建造小人.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\bin\Debug\09-1-建造小人.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\bin\Debug\09-1-建造小人.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\obj\Debug\09-1-建造小人.csprojAssemblyReference.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\obj\Debug\_09_1_建造小人.Form1.resources
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\obj\Debug\_09_1_建造小人.Properties.Resources.resources
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\obj\Debug\09-1-建造小人.csproj.GenerateResource.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\obj\Debug\09-1-建造小人.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\obj\Debug\09-1-建造小人.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\09-1-建造小人\obj\Debug\09-1-建造小人.pdb

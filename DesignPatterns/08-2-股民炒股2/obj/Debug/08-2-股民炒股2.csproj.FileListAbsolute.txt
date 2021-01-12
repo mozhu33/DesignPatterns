@@ -1,0 +1,6 @@
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\08-2-股民炒股2\bin\Debug\08-2-股民炒股2.exe.config
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\08-2-股民炒股2\bin\Debug\08-2-股民炒股2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\08-2-股民炒股2\bin\Debug\08-2-股民炒股2.pdb
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\08-2-股民炒股2\obj\Debug\08-2-股民炒股2.csproj.CoreCompileInputs.cache
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\08-2-股民炒股2\obj\Debug\08-2-股民炒股2.exe
+E:\learning\C#_Code\DesignPatterns\DesignPatterns\08-2-股民炒股2\obj\Debug\08-2-股民炒股2.pdb
